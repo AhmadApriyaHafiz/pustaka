@@ -10,3 +10,6 @@ pengembalian buku
 ### Kelebihan Project
 1. Meminjam buku
 2. mengembalikan buku
+
+### Screnshot Project
+![menu-user](/assets/img/screenshot/menu-user.PNG)
