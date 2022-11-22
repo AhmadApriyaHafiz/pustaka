@@ -1,4 +1,4 @@
-# Aplikaasi Pustaka Booking
+# Aplikasi Pustaka Booking
 
 # Apa itu aplikasi Pustaka Booking?
 
